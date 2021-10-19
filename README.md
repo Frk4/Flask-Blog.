@@ -1,2 +1,2 @@
 # Flask-Blog.
-This is a flask blog
+This is a flask blog.
